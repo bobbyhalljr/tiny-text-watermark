@@ -45,7 +45,7 @@ watermarked, rigid text (math-like)      18.4%     21.8%     18.2%
 ## Read the write-up
 
 - Substack: SUBSTACK_URL
-- DEV: DEV_URL
+- DEV: https://dev.to/bobbyhalljr/openai-started-watermarking-chatgpt-text-build-a-tiny-text-watermark-in-typescript-5ak0
 
 ## License
 
